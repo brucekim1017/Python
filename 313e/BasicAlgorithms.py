@@ -1,3 +1,5 @@
+# Basic Algorithms
+
 def selection_sort (a):
   for i in range (len(a) - 1):
     # find the minimum
